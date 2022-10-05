@@ -7,9 +7,13 @@
 > navigate through my itmo related repos. <br> **That's it.**
 
 
-## Editing markdown
+## Editing online
 
-I use `https://stackedit.io/app` 
+Most of the online things I use: <br>
+`stackedit.io/app` 
+`app.diagrams.net`
+`programiz.com`
+`dribbble.com`
 
 ## Programming
 
