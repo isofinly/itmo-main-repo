@@ -1,3 +1,4 @@
+![no description for ya](https://cdn.dribbble.com/userupload/3273671/file/original-5966c5710b59b3261a84f54a7bf88c44.jpg)
 # Welcome to My Repos TL;DR
 
 Hi! I'm paw coder so do no judge me, k baka?
@@ -6,25 +7,25 @@ This repo is used to navigate through my itmo related repos.
 
 ## Programming
 
- - [Lab 1](https://github.com/isofinly/lab_1)
- - [Lab 2](https://github.com/isofinly/lab2)
- - Lab 3
- - Lab 4
- - Lab 5
- - Lab 6
- - Lab 7
- >Sooome text
+ - [x] [Lab 1](https://github.com/isofinly/lab_1)
+ > 368823
+ - [ ] [Lab 2](https://github.com/isofinly/lab2)
+ > 12605 
+ - [ ] Lab 3
+ - [ ] Lab 3
+ - [ ] Lab 3
+ - [ ] Lab 3
+ - [ ] Lab 3
+
 
 ## Fundamentals of Professional Activity
 
  - [Lab 1](https://github.com/isofinly/lab_0)
 
-> Some text
+> 12084
 
 ## Computer Science
 
- - Lab 1
- - [Lab 2](https://github.com/isofinly/CS-lab-2)
-
-> Some text as well
+ - [x] Lab 1
+ - [ ] [Lab 2](https://github.com/isofinly/CS-lab-2)
 
