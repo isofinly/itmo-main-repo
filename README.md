@@ -1,9 +1,11 @@
 ![no description for ya](https://cdn.dribbble.com/userupload/3273671/file/original-5966c5710b59b3261a84f54a7bf88c44.jpg)
-# Welcome to My Repos TL;DR
+# Welcome to My Repos
 
-Hi! I'm paw coder so do no judge me, k baka?
-This repo is used to navigate through my itmo related repos. 
-**That's it.**
+## Programming course by ITMO University, 1st year studying
+
+> Hi! I'm paw coder so do no judge me, k baka? This repo is used to
+> navigate through my itmo related repos. 
+> **That's it.**
 
 ## Programming
 
@@ -28,4 +30,3 @@ This repo is used to navigate through my itmo related repos.
 
  - [x] Lab 1
  - [ ] [Lab 2](https://github.com/isofinly/CS-lab-2)
-
