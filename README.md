@@ -20,7 +20,7 @@ This repo is used to navigate through my itmo related repos.
 
 ## Fundamentals of Professional Activity
 
- - [Lab 1](https://github.com/isofinly/lab_0)
+ - [ ] [Lab 1](https://github.com/isofinly/lab_0)
 
 > 12084
 
