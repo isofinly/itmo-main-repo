@@ -4,8 +4,7 @@
 ## Programming course by ITMO University, 1st year studying
 
 > Hi! I'm paw coder so do no judge me, k baka? This repo is used to
-> navigate through my itmo related repos. 
-> **That's it.**
+> navigate through my itmo related repos. <br> **That's it.**
 
 ## Programming
 
