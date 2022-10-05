@@ -10,10 +10,10 @@
 ## Editing online
 
 Most of the online things I use: <br>
-`stackedit.io/app` 
-`app.diagrams.net`
-`programiz.com`
-`dribbble.com`
+`stackedit.io/app` <br>
+`app.diagrams.net`<br>
+`programiz.com`<br>
+`dribbble.com`<br>
 
 ## Programming
 
