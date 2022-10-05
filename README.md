@@ -6,6 +6,11 @@
 > Hi! I'm paw coder so do no judge me, k baka? This repo is used to
 > navigate through my itmo related repos. <br> **That's it.**
 
+
+## Editing markdown
+
+I use `https://stackedit.io/app` 
+
 ## Programming
 
  - [x] [Lab 1](https://github.com/isofinly/lab_1)
@@ -30,7 +35,3 @@
  - [x] Lab 1
  - [ ] [Lab 2](https://github.com/isofinly/CS-lab-2)
 
-
-## Editing markdown
-
-I use `https://stackedit.io/app` 
