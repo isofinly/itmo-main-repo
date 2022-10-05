@@ -29,3 +29,8 @@
 
  - [x] Lab 1
  - [ ] [Lab 2](https://github.com/isofinly/CS-lab-2)
+
+
+## Editing markdown
+
+I use `https://stackedit.io/app` 
