@@ -6,36 +6,7 @@
 > Hi! I'm paw coder so do no judge me, k baka? This repo is used to
 > navigate through my itmo related repos. <br> **That's it.**
 
-
-## Editing online
-
-Most of the online things I use: <br>
-`stackedit.io/app` <br>
-`app.diagrams.net`<br>
-`programiz.com`<br>
-`dribbble.com`<br>
-
-## Programming
-
- - [x] [Lab 1](https://github.com/isofinly/lab_1)
- > 368823
- - [ ] [Lab 2](https://github.com/isofinly/lab2)
- > 12605 
- - [ ] Lab 3
- - [ ] Lab 3
- - [ ] Lab 3
- - [ ] Lab 3
- - [ ] Lab 3
-
-
-## Fundamentals of Professional Activity
-
- - [ ] [Lab 1](https://github.com/isofinly/lab_0)
-
-> 12084
-
-## Computer Science
-
- - [x] Lab 1
- - [ ] [Lab 2](https://github.com/isofinly/CS-lab-2)
-
+<a href="https://github.com/isofinly">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isofinly&layout=compact&theme=midnight-purple&show_icons=true&langs_count=8" />
+</a>
+<br>
