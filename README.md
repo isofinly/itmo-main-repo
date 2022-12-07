@@ -7,6 +7,5 @@
 > navigate through my itmo related repos. <br> **That's it.**
 
 <a href="https://github.com/isofinly">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isofinly&layout=compact&theme=midnight-purple&show_icons=true&langs_count=100" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isofinly&layout=compact&show_icons=true&langs_count=100&title_color=dfe6e9&bg_color=2d3436&text_color=dfe6e9&hide_border=true&card_width=400" />
 </a>
-<br>
