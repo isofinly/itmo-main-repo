@@ -6,7 +6,7 @@
 > Hi! I'm paw coder so do no judge me, k baka? This repo is used to
 > navigate through my itmo related repos. <br> **That's it.**
 
-<a href="https://github.com/isofinly">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isofinly&layout=full&theme=midnight-purple&show_icons=true&langs_count=100" />
+<a href="https://github.com/isofinly" width="100%">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isofinly&layout=compact&theme=midnight-purple&show_icons=true&langs_count=100" />
 </a>
 <br>
